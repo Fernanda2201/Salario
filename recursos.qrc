@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Icons/anadir.png</file>
+        <file>../../Icons/dinero.png</file>
+        <file>../../Icons/Exit.png</file>
+        <file>../../Icons/llaves.png</file>
+        <file>../../Icons/open.png</file>
+        <file>../../Icons/salvar.png</file>
+        <file>../../../Downloads/acerca-de.png</file>
+    </qresource>
+</RCC>
